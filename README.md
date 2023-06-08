@@ -1,1 +1,1 @@
-Shell basics project
+shell permissions project
