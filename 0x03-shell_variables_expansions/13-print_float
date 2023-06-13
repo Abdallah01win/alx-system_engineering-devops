@@ -1,2 +1,2 @@
 #!/bin/bash
-printf("%d", £NUM)
+printf("%d", $NUM)
